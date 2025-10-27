@@ -1,4 +1,4 @@
- c= float(input('Informe a temperatura em graus C: '))
+c= float(input('Informe a temperatura em graus C: '))
 f = ((9 * c) / 5) + 32
 k = ((5 * c) / 5) + 273
 
